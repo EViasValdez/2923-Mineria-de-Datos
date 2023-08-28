@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static async Task(string[] args)
         {
-            Spider spider
-            List<Car> car
+            // Spider spider
+            // List<Car> car
         }
     }
 }
