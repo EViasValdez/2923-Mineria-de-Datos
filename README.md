@@ -1,4 +1,4 @@
-# 2923-Mineria-de-datos
+# Mineria de datos
 
 <!--Formato de descripción de repositorios-->
 <!----Notas---->
