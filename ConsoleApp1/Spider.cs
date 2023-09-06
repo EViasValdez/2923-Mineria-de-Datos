@@ -28,7 +28,7 @@ namespace ConsoleApp1
             htmldocument.LoadHtml(html);
 
             var cars = new List<Car>();
-        var divs = htmlDocument.DocumentNode.Descendats("div").Where(node.GetAttributeValue("class", "").Equals("")).ToList();
+            var divs = htmlDocument.DocumentNode.Descendats("div").Where(node.GetAttributeValue("class", "").Equals("")).ToList();
 
         }
     }
