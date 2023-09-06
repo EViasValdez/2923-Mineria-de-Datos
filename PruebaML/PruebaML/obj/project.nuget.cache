@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p51613djF3a+YrDSSsEekf3IgFHiAHtdYQmEKncanY2wf9HC8aRUU3MFsnFrwC2J3vHZGVZJg3zIqFtocVjbRA==",
+  "dgSpecHash": "wDy5zq1qklGpenBrnTGK0l8bQiFdylyfwaZFoPkT3P8Guha94fCc5Q898TIM2Ma0JmnFgz3JRJkMzO2vDNJxJQ==",
   "success": true,
-  "projectFilePath": "E:\\VS\\Mineria de datos\\PruebaML\\PruebaML\\PruebaML.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Mineria-de-Datos\\PruebaML\\PruebaML\\PruebaML.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\defaultuser0\\.nuget\\packages\\microsoft.ml\\1.7.1\\microsoft.ml.1.7.1.nupkg.sha512",
