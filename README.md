@@ -16,7 +16,7 @@ Texto por ser escrito
 <!----Separador---->
 
 ###### ConsoleApp1 - 19/06/23
-Texto por ser escrito
+Programa de prueba.
 
 <!----Separador---->
 
