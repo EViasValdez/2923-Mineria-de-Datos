@@ -21,7 +21,7 @@ Programa de prueba.
 <!----Separador---->
 
 ###### ServidorWeb - 22/06/23
-Texto por ser escrito
+Intento de creacion de un servidor por medio de Go.
 
 <!----Separador---->
 
