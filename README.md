@@ -8,8 +8,8 @@
 **- Por ser escrita.**
 <!----Separador de las notas---->
 
-<!----Directorio con descripcion de los programas---->
-# Descripcion de los programas
+<!----Directorio con descripción de los programas---->
+# Descripción de los programas
 ###### AplicacionWeb - 15/06/23
 Texto por ser escrito
 
@@ -33,4 +33,4 @@ Texto por ser escrito
 ###### PruebaML - 27/07/23
 Texto por ser escrito
 
-<!----Separador del directorio con descripcion de los programas---->
+<!----Separador del directorio con descripción de los programas---->
