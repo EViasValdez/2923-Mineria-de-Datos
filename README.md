@@ -5,7 +5,7 @@
 
 **- Los archivos que se tienen aqui son los que se pudieron tener de esta clase.**
 
-**- Por ser escrita.**
+**- Resto de la descripcion por ser escrita.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
