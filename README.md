@@ -11,7 +11,7 @@
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
 ###### AplicacionWeb - 15/06/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador---->
 
@@ -26,11 +26,11 @@ Intento de creacion de un servidor.
 <!----Separador---->
 
 ###### SpiderDemo - 01/07/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador---->
 
 ###### PruebaML - 27/07/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador del directorio con descripción de los programas---->
