@@ -34,3 +34,14 @@ E:\VS\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.CoreCom
 E:\VS\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.CopyComplete
 E:\VS\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe
 E:\VS\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\bin\Debug\SpiderDemo.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\bin\Debug\SpiderDemo.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\bin\Debug\SpiderDemo.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\bin\Debug\HtmlAgilityPack.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\bin\Debug\HtmlAgilityPack.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\bin\Debug\HtmlAgilityPack.xml
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.CopyComplete
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.pdb
