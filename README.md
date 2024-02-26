@@ -26,7 +26,7 @@ Intento de creacion de un servidor.
 <!----Separador---->
 
 ###### SpiderDemo - 01/07/23
-Texto por ser escrito.
+Demostracion de un programa tipo spider.
 
 <!----Separador---->
 
