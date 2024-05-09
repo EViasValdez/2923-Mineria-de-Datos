@@ -3,9 +3,9 @@
 <!----Notas---->
 **Notas**
 
-**- Los archivos que se tienen aqui son los que se pudieron tener de esta clase.**
+**- Los archivos que se tienen aquí son los que se pudieron tener de esta clase.**
 
-**- El resto de las descripciones aun estan por ser escritas.**
+**- El resto de las descripciones aun están por ser escritas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
