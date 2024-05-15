@@ -31,6 +31,6 @@ Demostracion de un programa tipo spider.
 <!----Separador---->
 
 ###### PruebaML - 27/07/23
-Programa que hace prueba del Machine Learning (Maquina de aprendizaje).
+Programa que hace uso y prueba del Machine Learning (Maquina de aprendizaje).
 
 <!----Separador del directorio con descripción de los programas---->
