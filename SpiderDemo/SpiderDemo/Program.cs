@@ -12,7 +12,7 @@ namespace SpiderDemo
         static async Task Main(string[] args)
         {
             Spider busqeuda = new Spider();
-            List<Car> car  = await busqeuda.Start();
+            List<Car> car  = await busqueda.Start();
             Console.WriteLine();
         }
     }
