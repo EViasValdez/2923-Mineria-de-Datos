@@ -11,7 +11,7 @@
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
 ###### AplicacionWeb - 15/06/23
-Texto por ser escrito.
+Programa vacio que no llego a nada, tal vez lo use para algo.
 
 <!----Separador---->
 
