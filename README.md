@@ -21,7 +21,7 @@ Programa de prueba.
 <!----Separador---->
 
 ###### ServidorWeb - 22/06/23
-Intento de creacion de un servidor en linea por medio de C#.
+Intento de creacion de un servidor en linea por medio deL lenguaje C#.
 
 <!----Separador---->
 
