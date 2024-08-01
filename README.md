@@ -16,7 +16,7 @@ Programa vacio que no llego a nada, tal vez lo use para algo.
 <!----Separador---->
 
 ###### ConsoleApp1 - 19/06/23
-Programa de prueba.
+Programa de prueba, todavia le falta poner el nombre definitivo.
 
 <!----Separador---->
 
