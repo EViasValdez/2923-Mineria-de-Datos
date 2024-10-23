@@ -79,3 +79,5 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\PruebaML\PruebaML\ob
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\PruebaML\PruebaML\obj\Debug\net6.0\PruebaML.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\PruebaML\PruebaML\obj\Debug\net6.0\PruebaML.genruntimeconfig.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\PruebaML\PruebaML\obj\Debug\net6.0\ref\PruebaML.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\PruebaML\PruebaML\bin\Debug\net6.0\System.Numerics.Tensors.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\PruebaML\PruebaML\bin\Debug\net6.0\runtimes\win-arm64\native\LdaNative.dll
