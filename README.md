@@ -11,22 +11,22 @@
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
 ###### AplicacionWeb - 15/06/23
-Programa vacio que no llego a nada, tal vez pueda usarlo para algo.
+Programa vacío que no llego a nada, tal vez pueda usarlo para algo.
 
 <!----Separador---->
 
 ###### ConsoleApp1 - 19/06/23
-Programa de prueba, todavia le falta poner el nombre definitivo.
+Programa de prueba, todavía le falta poner el nombre definitivo.
 
 <!----Separador---->
 
 ###### ServidorWeb - 22/06/23
-Intento de creacion de un servidor en linea por medio deL lenguaje C#.
+Intento de creación de un servidor en línea por medio del lenguaje C#.
 
 <!----Separador---->
 
 ###### SpiderDemo - 01/07/23
-Demostracion de un programa tipo spider.
+Demostración de un programa tipo spider.
 
 <!----Separador---->
 
