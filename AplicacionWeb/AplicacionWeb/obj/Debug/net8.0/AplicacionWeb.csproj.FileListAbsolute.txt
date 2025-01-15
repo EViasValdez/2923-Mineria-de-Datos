@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\bin\Debug\net8.0\AplicacionWeb.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\bin\Debug\net8.0\AplicacionWeb.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\bin\Debug\net8.0\AplicacionWeb.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\bin\Debug\net8.0\AplicacionWeb.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\bin\Debug\net8.0\AplicacionWeb.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\AplicacionWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\AplicacionWeb.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\AplicacionWeb.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\AplicacionWeb.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\AplicacionWeb.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\AplicacionWeb.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\refint\AplicacionWeb.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\AplicacionWeb.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\AplicacionWeb.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\AplicacionWeb\AplicacionWeb\obj\Debug\net8.0\ref\AplicacionWeb.dll
