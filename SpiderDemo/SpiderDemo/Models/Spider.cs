@@ -25,7 +25,7 @@ namespace SpiderDemo.Models
             var cars = new List<Car>();
             var divs =
             htmlDocument.DocumentNode.Descendants("div")
-                     .Where(node => node.GetAttributeValue("class", "").Equals("ui-search-price__second-line shops__price-second-line")).ToList();
+                .Where(node => node.GetAttributeValue("class", "").Equals("ui-search-price__second-line shops__price-second-line")).ToList();
 
             foreach (var div in divs)
             {

@@ -37,10 +37,10 @@ namespace PruebaML
         {
             // Data process configuration with pipeline data transformations
             var pipeline = mlContext.Transforms.Categorical.OneHotEncoding(@"gender", @"gender", outputKind: OneHotEncodingEstimator.OutputKind.Indicator)      
-                                    .Append(mlContext.Transforms.ReplaceMissingValues(new []{new InputOutputColumnPair(@"age", @"age"),new InputOutputColumnPair(@"hypertension", @"hypertension"),new InputOutputColumnPair(@"heart_disease", @"heart_disease"),new InputOutputColumnPair(@"bmi", @"bmi"),new InputOutputColumnPair(@"HbA1c_level", @"HbA1c_level"),new InputOutputColumnPair(@"blood_glucose_level", @"blood_glucose_level")}))      
-                                    .Append(mlContext.Transforms.Text.FeaturizeText(inputColumnName:@"smoking_history",outputColumnName:@"smoking_history"))      
-                                    .Append(mlContext.Transforms.Concatenate(@"Features", new []{@"gender",@"age",@"hypertension",@"heart_disease",@"bmi",@"HbA1c_level",@"blood_glucose_level",@"smoking_history"}))      
-                                    .Append(mlContext.Regression.Trainers.FastForest(new FastForestRegressionTrainer.Options(){NumberOfTrees=4,NumberOfLeaves=4,FeatureFraction=1F,LabelColumnName=@"diabetes",FeatureColumnName=@"Features"}));
+                .Append(mlContext.Transforms.ReplaceMissingValues(new []{new InputOutputColumnPair(@"age", @"age"),new InputOutputColumnPair(@"hypertension", @"hypertension"),new InputOutputColumnPair(@"heart_disease", @"heart_disease"),new InputOutputColumnPair(@"bmi", @"bmi"),new InputOutputColumnPair(@"HbA1c_level", @"HbA1c_level"),new InputOutputColumnPair(@"blood_glucose_level", @"blood_glucose_level")}))      
+                .Append(mlContext.Transforms.Text.FeaturizeText(inputColumnName:@"smoking_history",outputColumnName:@"smoking_history"))      
+                .Append(mlContext.Transforms.Concatenate(@"Features", new []{@"gender",@"age",@"hypertension",@"heart_disease",@"bmi",@"HbA1c_level",@"blood_glucose_level",@"smoking_history"}))      
+                .Append(mlContext.Regression.Trainers.FastForest(new FastForestRegressionTrainer.Options(){NumberOfTrees=4,NumberOfLeaves=4,FeatureFraction=1F,LabelColumnName=@"diabetes",FeatureColumnName=@"Features"}));
 
             return pipeline;
         }
