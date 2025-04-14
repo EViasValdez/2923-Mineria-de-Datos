@@ -26,10 +26,8 @@ namespace ConsoleApp1
             var html = await httpclient.GetStringAsync(Url);
             var htmldocument = new HtmlDocument();
             htmldocument.LoadHtml(html);
-
             var cars = new List<Car>();
             var divs = htmlDocument.DocumentNode.Descendats("div").Where(node.GetAttributeValue("class", "").Equals("")).ToList();
-
         }
     }
 }
