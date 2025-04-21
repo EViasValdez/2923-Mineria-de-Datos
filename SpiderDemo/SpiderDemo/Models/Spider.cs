@@ -8,8 +8,6 @@ namespace SpiderDemo.Models
 {
     public class Spider
     {
-
-
         public Spider() { } 
         public  async Task<List<Car>> Start()
         {
