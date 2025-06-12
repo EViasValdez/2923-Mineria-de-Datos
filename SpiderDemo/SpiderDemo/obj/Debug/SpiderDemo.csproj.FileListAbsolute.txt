@@ -9,3 +9,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDem
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.CopyComplete
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe.config
